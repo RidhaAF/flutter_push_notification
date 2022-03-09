@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945494513570",
+    "project_id": "flutter-fcm-a4b42",
+    "storage_bucket": "flutter-fcm-a4b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945494513570:android:1a6c82f9e312d782de44fb",
+        "android_client_info": {
+          "package_name": "com.ridhaaf.flutter_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945494513570-rbs2bpjtte7kvh4o0jrt5kql1lq1sd90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc8BH89Un2TBMpfDWRg9gu8Q_ZxNSnhZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945494513570-rbs2bpjtte7kvh4o0jrt5kql1lq1sd90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
