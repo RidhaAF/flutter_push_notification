@@ -48,10 +48,6 @@ class _HomePageState extends State<HomePage> {
               notificationData,
               style: Theme.of(context).textTheme.headline6,
             ),
-            Text(
-              notificationData,
-              style: Theme.of(context).textTheme.headline6,
-            ),
           ],
         ),
       ),
